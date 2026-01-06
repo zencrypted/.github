@@ -1,4 +1,4 @@
-<h1 align=center>SECRYPTED</h1>
+[https://github.com/synrc/chat](https://openmoji.org/data/color/svg/E248.svg)
 
 ## Secure Instant Messenger та українські PKI-сервіси на базі X.509
 
