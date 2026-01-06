@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/136317615?s=400&u=e84b9d2d5e48a265535c7a854374b5e2f12a1a21&v=4">
-<img src="https://avatars.githubusercontent.com/u/661709?s=400&u=1df50b027401b925d0bfe5d347f362930144de6f&v=1" width=100 lt="N2O.DEV">
+<img src="https://avatars.githubusercontent.com/u/136317615?s=400&u=e84b9d2d5e48a265535c7a854374b5e2f12a1a21&v=1" width=100 lt="N2O.DEV">
 </picture>
 </p>
 
