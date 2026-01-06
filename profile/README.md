@@ -1,4 +1,4 @@
-[https://github.com/synrc/chat](https://openmoji.org/data/color/svg/E248.svg)
+[https://openmoji.org/data/color/svg/E248.svg](https://chat.n2o.dev)
 
 ## Secure Instant Messenger та українські PKI-сервіси на базі X.509
 
