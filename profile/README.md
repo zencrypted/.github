@@ -1,5 +1,9 @@
-[https://openmoji.org/data/color/svg/E248.svg](https://chat.n2o.dev)
-
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/661709?s=400&u=1df50b027401b925d0bfe5d347f362930144de6f&v=4">
+<img src="https://avatars.githubusercontent.com/u/661709?s=400&u=1df50b027401b925d0bfe5d347f362930144de6f&v=1" width=100 lt="N2O.DEV">
+</picture>
+</p>
 ## Secure Instant Messenger та українські PKI-сервіси на базі X.509
 
 Ми — open-source організація, що спеціалізується на розробці безпечних систем миттєвого обміну повідомленнями (chat messengers) та ключових компонентів публічної інфраструктури ключів (PKI). Наші проєкти базуються на стандартах ASN.1, X.509, CMS/S-MIME, LDAP, DNS та сучасних криптографічних протоколах (включаючи постквантову криптографію та MLS).
