@@ -23,7 +23,7 @@
 
 ### Основні проєкти
 
-- **[chat](https://github.com/zencrypted/chat)** — Безпечний месенджер на базі ISO 20922, X.509, CMS, PKCS та ASN.1.
+- **[chat](https://github.com/zencrypted/chat)** — Безпечний месенджер з використанням X.509, CMS, PKCS та ASN.1.
 - **[sim](https://github.com/zencrypted/sim)** — Apple Swift Client для iOS на Spring Bubbles.
 
 ### Інші проєкти
