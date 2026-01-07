@@ -21,17 +21,17 @@
 - **Модульність та незалежність** — наші імплементації (CA, LDAP, NS, CHAT) можуть використовуватися окремо або як повний стек.
 - **Спільнота та внесок** — вітаємо pull requests, issues та співпрацю. Ми активно форкуємо та сприяємо проєктам на кшталт MLS, liboqs, kyber-certificates.
 
-### Основні проєкти
+## Основні продукти
 
-- **[chat](https://github.com/zencrypted/chat)** — Безпечний монолітний месенджер на Elixir з використанням X.509, CMS, PKCS та ASN.1.
-- **[sim](https://github.com/zencrypted/sim)** — Apple Swift Client для iOS на Spring Bubbles.
+* **[chat](https://github.com/zencrypted/chat)** — Безпечний монолітний месенджер на Elixir з використанням X.509, CMS, PKCS та ASN.1.
+* **[sim](https://github.com/zencrypted/sim)** — Apple Swift Client для iOS на Spring Bubbles.
 
-### Інші проєкти
+## Похілні твори
 
-- MLS-імплементація,
-- постквантова криптографія,
-- COSE
-- CBOR
+* MLS-імплементація
+* постквантова криптографія
+* COSE
+* CBOR
 
 ### Як долучитися
 
