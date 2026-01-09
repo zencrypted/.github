@@ -17,6 +17,7 @@
 
 * **[chat](https://github.com/zencrypted/chat)** — Безпечний монолітний месенджер на Elixir з використанням X.509, CMS, PKCS та ASN.1.
 * **[sim](https://github.com/zencrypted/sim)** — Apple Swift Client для iOS на Spring Bubbles.
+* **[message](https://github.com/zencrypted/message)** — Apple Swift Client для macOS.
 
 🇺🇦 Зроблено з фокусом на українську PKI та глобальні стандарти.
 
