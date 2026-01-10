@@ -4,7 +4,7 @@
 
 ## Основні продукти
 
-* **[message](https://github.com/zencrypted/message)** — Легкий месенжер без залежностей на Apple Swift для macOS і iOS.
+* **[message](https://github.com/zencrypted/message)** — Легкий захищений месенжер без залежностей на Apple Swift для macOS і iOS.
 * **[chat](https://github.com/zencrypted/chat)** — Безпечний релей на Elixir для захищених месенджерів на X.509, CMS, PKCS та ASN.1.
 
 ### Місія
